@@ -10,7 +10,7 @@ Copyright 2011, Troy Murray
 * [Omnigraffle](http://www.omnigroup.com/products/omnigraffle/) 
 
 ## Description ##
-The purpose of this stencil is to make it easy to mockup web sites or web applications using the (Twitter Bootstrap CSS Toolkit)[https://github.com/twitter/bootstrap/].
+The purpose of this stencil is to make it easy to mockup web sites or web applications using the Twitter Bootstrap CSS Toolkit from [http://twitter.github.com/bootstrap](http://twitter.github.com/bootstrap).
 
 ## Installation ##
 To install the stencil, simply double-click on the Twitter-Bootstrap.gstencil file and this will automatically add it to OmniGraffle for you.
