@@ -15,6 +15,18 @@ To install the stencil, do the following:
 3. In the Stencil Inspector you should see the stencil, click the "Install" buton
 4. Enjoy!
 
+## Replace Existing Stencil ##
+If you already have this stencil installed, here's how to get the latest version:
+
+1. Open OmniGraffle
+2. Open the Stencil Inspector
+3. Select the current "Twitter-Bootstrap" stencil
+4. Right-click on the stencil name, select "Uninstall stencil"
+5. Download the newer stencil to your computer.
+6. Double-click on the stencil to open OmniGraffle
+7. In the Stencil Inspector you should see the stencil, click the "Install" buton
+8. Enjoy!
+
 ## Use ##
 I suggest the following as you use this template:
 
