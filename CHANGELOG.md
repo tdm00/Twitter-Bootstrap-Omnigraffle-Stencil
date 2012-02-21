@@ -8,6 +8,7 @@
 	* Misc: Changed the list text color to be black
 	* New: Created right-aligned blockquote example
 	* Misc: Changed Heading font sizes to match new sizes
+	* New: Add Code block
 	* Fixed: Inline "Info" label color changed 
 
 * 1.4.0
