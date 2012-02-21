@@ -61,5 +61,9 @@ You should now see the grid on each new canvass that you add.  This will help yo
 * You are free to use this stencil in your personal or commercial work
 * You are free to redistribute or change the stencil
 
+## Helping ##
+
+As the stencil is converted to include the 2.0.0 assets, each individual asset is saved separately in the components folder.  Then each of these components are copied into the master stencil.  This allows others to contribute by modifying the CSS asset, saving the file, then copying it into the master stencil.
+
 Copyright 2012, Troy Murray
 
