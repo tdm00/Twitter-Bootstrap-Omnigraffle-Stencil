@@ -60,7 +60,7 @@
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>1531</integer>
+					<integer>1535</integer>
 					<key>OrthogonalBarAutomatic</key>
 					<true/>
 					<key>OrthogonalBarPoint</key>
@@ -96,15 +96,15 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{294, 31}, {282, 22}}</string>
+					<string>{{299, 31}, {299, 22}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
-					<string>YES</string>
+					<string>Vertical</string>
 					<key>Flow</key>
 					<string>Resize</string>
 					<key>ID</key>
-					<integer>1532</integer>
+					<integer>1536</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -142,8 +142,6 @@
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
-					<key>Wrap</key>
-					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -162,7 +160,7 @@
 						<real>30</real>
 					</dict>
 					<key>ID</key>
-					<integer>1533</integer>
+					<integer>1537</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -205,7 +203,7 @@
 				</dict>
 			</array>
 			<key>ID</key>
-			<integer>1530</integer>
+			<integer>1534</integer>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -719,7 +717,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-02-21 20:45:08 +0000</string>
+	<string>2012-02-21 20:55:43 +0000</string>
 	<key>Modifier</key>
 	<string>Troy D Murray</string>
 	<key>NotesVisible</key>
@@ -800,7 +798,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{965, 465}, {1130, 933}}</string>
+		<string>{{629, 147}, {1130, 933}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
