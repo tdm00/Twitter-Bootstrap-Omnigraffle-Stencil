@@ -3,6 +3,10 @@
 ## Description ##
 The purpose of this stencil is to make it easy to mockup web sites or web applications using the Twitter Bootstrap CSS Toolkit from [http://twitter.github.com/bootstrap](http://twitter.github.com/bootstrap).
 
+Note there are two branches for this project.  
+* The 1.4 branch is based on Twitter Bootstrap version 1.4
+* The 2.0 branch is based on Twitter Bootstrap version 2.x.x
+
 ## Requirements ##
 * Mac computer (physical or virtual)
 * [Omnigraffle](http://www.omnigroup.com/products/omnigraffle/) 
@@ -57,5 +61,5 @@ You should now see the grid on each new canvass that you add.  This will help yo
 * You are free to use this stencil in your personal or commercial work
 * You are free to redistribute or change the stencil
 
-Copyright 2011, Troy Murray
+Copyright 2012, Troy Murray
 
